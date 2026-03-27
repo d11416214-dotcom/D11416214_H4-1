@@ -3,7 +3,7 @@
 public class Manager
 {
 	private readonly DateTime Startup;
-	public Manage()
+	public Manager()
 	{
 		Startup = DateTime.Now;
 	}
